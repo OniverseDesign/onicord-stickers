@@ -1,0 +1,17 @@
+{
+  "name": "onicord-stickers",
+  "version": "1.0.0",
+  "description": "Official and community sticker packs repository for Onicord",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "pack": "node build.js"
+  },
+  "keywords": [
+    "onicord",
+    "stickers",
+    "opk"
+  ],
+  "author": "Oniverse",
+  "license": "MIT"
+}
