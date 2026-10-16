@@ -1,15 +1,16 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-25T00:41:33.634Z",
+  "updatedAt": "2026-10-16T15:37:50.198Z",
   "packs": [
     {
       "id": "silly_cats",
       "name": "Silly Cats",
       "version": "1.0",
       "author": "Oniverse",
+      "iconName": null,
       "description": "The sillyest cats you'll ever meet",
       "icon": "https://raw.githubusercontent.com/OniverseDesign/onicord-stickers/main/packs/silly_cats/icon.png",
-      "downloadUrl": "https://raw.githubusercontent.com/OniverseDesign/onicord-stickers/main/packs/silly_cats/silly_cats.opk",
+      "downloadUrl": "https://raw.githubusercontent.com/OniverseDesign/onicord-stickers/main/packs/silly_cats/silly_cats.onipkg",
       "stickersCount": 156
     }
   ]
