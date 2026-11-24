@@ -14,6 +14,9 @@
     <a href="https://github.com/OniverseDesign/onicord-addons">
       <img src="https://img.shields.io/badge/Ecosystem-Addons-89b4fa?style=for-the-badge&logo=github&logoColor=white" alt="Onicord Addons" />
     </a>
+    <a href="https://github.com/OniverseDesign/onicord-emojis">
+      <img src="https://img.shields.io/badge/Ecosystem-Emojis-f5c2e7?style=for-the-badge&logo=github&logoColor=white" alt="Onicord Emojis" />
+    </a>
     <a href="https://github.com/OniverseDesign/onicord/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-GPL%20v3-74c7ec.svg?style=for-the-badge" alt="License: GPL-3.0" />
     </a>
@@ -37,6 +40,8 @@
 This repository hosts official and community-created sticker collections for **Onicord**. All packs are compressed and distributed using Onicord's standardized package format: **`.onipkg`** (gzip-compressed JSON bundle with embedded asset bitmaps and metadata).
 
 Users can browse and install sticker collections directly from the in-app Store (**Settings > Stickers**) or by importing a `.onipkg` archive.
+
+Looking for custom chat emojis and animated emotes (`:shortcode:`) instead? Visit the companion [OniverseDesign/onicord-emojis](https://github.com/OniverseDesign/onicord-emojis) repository.
 
 ---
 
